@@ -4,9 +4,10 @@ This is a url-shortener website developed using php.
 Let's start the project by following the given instructions.
 
 INSTALLATION:-
+
      - Xampp
      - Vs Code
-    - Mysql database
+     - Mysql database
     
 STEP:-1 First you need to install xampp server for running php files. After installing xampp you need to start apache and mysql server. Xampp download link-> https://www.apachefriends.org/download.html
 
